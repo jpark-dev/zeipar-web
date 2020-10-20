@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+
+Created a website to be used as a portfolio.
+
+Used following Stack:
+
+- Node
+- Express
+- HTML5/CSS3
+- Flexbox
+- PostgreSQL
+- Fontawesome
 
 ## Available Scripts
 
