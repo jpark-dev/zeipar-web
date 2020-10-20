@@ -11,6 +11,10 @@ Used following Stack:
 - PostgreSQL
 - Fontawesome
 
+### Dependencies
+
+- react-router-dom
+
 ## Available Scripts
 
 In the project directory, you can run:
