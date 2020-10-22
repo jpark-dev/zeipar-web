@@ -8,6 +8,12 @@ export default function AppRouter() {
         <Route exact path="/">
           <Home />
         </Route>
+        <Route exact path="/profile">
+          <Profile />
+        </Route>
+        <Route exact path="/portfolio">
+          <Portfolio />
+        </Route>
       </Switch>
     </Router>
   );
