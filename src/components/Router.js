@@ -2,6 +2,7 @@ import React from "react";
 import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import Home from "../routes/Home";
 import Portfolio from "../routes/Portfolio";
+import Profile from "../routes/Profile";
 export default function AppRouter() {
   return (
     <Router>
