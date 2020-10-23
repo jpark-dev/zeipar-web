@@ -5,11 +5,11 @@ export default function NavBar() {
   return (
     <>
       <div className="nav-wrapper">
-        <div>Logo</div>
-        <div>Profile</div>
-        <div>Portfolio</div>
-        <div>Translations</div>
-        <div>Others</div>
+        <div className="titles">Logo</div>
+        <div className="titles">Profile</div>
+        <div className="titles">Portfolio</div>
+        <div className="titles">Translations</div>
+        <div className="titles">Others</div>
       </div>
     </>
   );
